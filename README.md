@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="style.css">
       </head>
 <body>
-<h1 id="title">freeCodeCamp Survey Form</h1>
-<p id="description">Thank you for taking the time to help us improve the platform</p>
+<h1 id="title"> Survey Form</h1>
+<p id="description">Thank you for taking the time to fill the form.</p>
 <form id="survey-form">
   <label for="name" id="name-label">Name</label>
   <input id="name" type="text" placeholder="Enter your name" required></input><br>
